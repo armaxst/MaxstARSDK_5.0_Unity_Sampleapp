@@ -14,6 +14,7 @@ MAXST AR Fusion Tracker allows you to augment AR contents on the target and even
 
 ### Demo Video
 What's the difference between MAXST AR Fusion Tracker and MAXST AR Tracker?
+
 Check out on YouTube!
 
 https://youtu.be/tTfMKuxPjh0
