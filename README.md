@@ -13,12 +13,8 @@ MAXST AR Fusion Tracker allows you to augment AR contents on the target and even
 5. Explore powerful performance of MAXST AR Fusion Tracker and MAXST AR Tracker. 
 
 ### Demo Video
-MAXST AR Fusion Tracker
-
-[![AR Fusion Tracker](http://img.youtube.com/vi/NKxQ61IMy9A/0.jpg)](https://youtu.be/NKxQ61IMy9A?t=0s)
-
-MAXST AR Tracker
-
-[![AR Tracker](http://img.youtube.com/vi/0YyoVO0vK4U/0.jpg)](https://youtu.be/0YyoVO0vK4U?t=0s)
+What's the difference between MAXST AR Fusion Tracker and MAXST AR Tracker?
+Check out on YouTube!
+https://youtu.be/tTfMKuxPjh0
 
 *****If you download the source and run it in Unity, after importing MAXST SDK 5.0, import the package and include only the Plugin folder.**
