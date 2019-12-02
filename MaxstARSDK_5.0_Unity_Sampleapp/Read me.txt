@@ -1,0 +1,12 @@
+MaxstARSDK 5.0_Unity_Sampleapp.APK
+
+What¡¯s New
+MAXST AR Fusion Tracker allows you to augment AR contents on the target and even on the surrounding area.
+
+Instructions
+
+1. Print the Target Image. Make sure to print at 100% scale (A4).
+2. Download the APK file(MaxstARSDK 5.0_Unity_Sampleapp.apk) and install it on your mobile device.
+3. Launch the app and select the tracker you want to try.
+4. Follow the guide in the app.
+5. Explore powerful performance of MAXST AR Fusion Tracker and MAXST AR Tracker. 
